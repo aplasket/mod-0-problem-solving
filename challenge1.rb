@@ -19,3 +19,5 @@ students = ["Fred", "George", "Harry", "Ron", "Stef", "Ab"]
         p student 
     end
 end
+
+# => "Fred", "Stef"
