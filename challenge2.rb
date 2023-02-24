@@ -17,3 +17,5 @@ pets = ["CaTs", "dOgs", "TURtle", "minX"]
 pets.each do |pet|
 p pet.downcase
 end
+
+# => "cats", "dogs", "turtle", "minx"
