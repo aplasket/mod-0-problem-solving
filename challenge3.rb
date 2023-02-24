@@ -20,3 +20,14 @@ mexican_foods.each do |food|
     end
 end
 
+# if this means all upper and lower case versions of "t" 
+# then we could use the code:
+
+# mexican_foods = ["Taco", "tortilla", "corn", "tomatillo", "salsa"]
+
+# mexican_foods.each do |food|
+#     if food.downcase.start_with?("t")
+#         p food
+#     end
+# end
+
