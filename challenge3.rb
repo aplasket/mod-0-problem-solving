@@ -20,6 +20,8 @@ mexican_foods.each do |food|
     end
 end
 
+# => "tortilla", "tomatillo"
+
 # if this means all upper and lower case versions of "t" 
 # then we could use the code:
 
@@ -31,3 +33,4 @@ end
 #     end
 # end
 
+# => "Taco", "tortilla", "tomatillo"
